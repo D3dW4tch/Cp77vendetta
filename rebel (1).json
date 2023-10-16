@@ -1,0 +1,145 @@
+{
+    "name": "Rebel",
+    "description": "There are no good endings in Night City",
+    "authors": [
+        {
+            "name": "Olivia",
+            "id": "499287211381096458"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#72eaf8"
+      ],
+      "HEADER_SECONDARY": [
+          "#72eaf8"
+      ],
+      "TEXT_NORMAL": [
+          "#c7c7c7"
+      ],
+      "TEXT_MUTED": [
+          "#ff003c"
+      ],
+      "TEXT_LINK": [
+          "#f3e600"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#7e5f5f"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#72eaf8"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#f3e600"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#7e5f5f" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#000000"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#170005"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#170005"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#000000"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#ff003c"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#170005"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#000000"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#170005"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#170005"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#000000"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#000000"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#170005"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#170005"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#000000"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#170005"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#72eaf8"
+      ],
+      "TEXT_DANGER": [
+          "#ff003c"
+      ],
+      "KEYBOARD": [
+          "#000000"
+      ],
+      "CHANNEL_ICON": [
+          "#ff003c"
+      ],
+      "CHAT_BACKGROUND": [
+          "#000000"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+          "#170005"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+          "#000000"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#f3e600",
+      "PRIMARY_200": "#170005",
+      "PRIMARY_300": "#000000",
+      "PRIMARY_360": "#ff003c",
+      "PRIMARY_400": "#170005",
+      "PRIMARY_500": "#170005",
+      "PRIMARY_600": "#000000",
+      "PRIMARY_630": "#170005",
+      "PRIMARY_660": "#170005",
+      "PRIMARY_700": "#000000",
+      "PRIMARY_800": "#000000",
+  
+      "BRAND_260": "#ff003c",
+      "BRAND_360": "#ff003c",
+      "BRAND_500": "#ff003c",
+      "BRAND_560": "#ff003c",
+      "WHITE_500": "#f3e600",",
+      "YELLOW_300": "#ff003c",
+      "GREEN_360": "#ff003c",
+      "RED_400": "#f3e600"
+  },
+    "plus": {
+        "version": 0,
+        "icons": {
+           "StatusStreaming": "#72eaf8",
+           "StatusMobileOnline": "#72eaf8",
+           "StatusIdle": "#f3e600",
+           "StatusDND": "#ff003c",
+           "StatusOffline": "#1a1a1a",
+           "StatusOnline": "#72eaf8"
+        }
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+        "alpha": 1.0
+    },
+    "spec": 2
+}
